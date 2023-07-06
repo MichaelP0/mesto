@@ -8,4 +8,4 @@
 - Grid, Flex, Input, Button, Popup
 
 **Ссылка на сайт**
-https://michaelp0.github.io/mesto/
+https://michaelp0.github.io/mesto/index.html
