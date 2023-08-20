@@ -1,0 +1,12 @@
+.popup__input-error {
+    font-size: 12px;
+    line-height: 15px;
+    height: 35px;
+    color: #FF0000;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 8px;
+  }
+
+/* чтобы был пиксельперфект надо делать height: 30px; 
+но тогда ошибка в 2 ряда у верхнего инпута не влезает */
