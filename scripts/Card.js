@@ -42,10 +42,10 @@ export class Card {
     _setEventListeners() {
         this._like.addEventListener('click', () => {
             this._likeElement() 
-        });
+        })
         this._trash.addEventListener('click', () => {
             this._deleteElement()
-        });
+        })
         this._image.addEventListener('click', () => {
             this._openPopupImage()
         })
@@ -58,5 +58,5 @@ export class Card {
         this._image.name = this._name
 
         return this._element
-    };
+    }
 }
